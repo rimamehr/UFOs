@@ -11,17 +11,17 @@ Additionally, I added a clear search button which resets the table to its unfilt
 
 ### Results
 
-
+# In the screeshot below you can see how easily we can filter the data on a selected date. 
 <p align="left">
   <img src="/images/filter_by_date.png">
   </p>
 
-
+# Here is a snapshot of how we can clear our previous selection use the clear filter button and then filtering the data by a new search parameter of state.
 <p align="left">
   <img src="/images/filter_by_state.png">
   </p>
   
-  
+# In this screenshot you can see how the user can filter that data using multiple criterias. You someone wanted to narrow their search to a very specific event, they could easily do that by entering multiple filters.   
   <p align="left">
   <img src="/images/multi_filter.png">
   </p>

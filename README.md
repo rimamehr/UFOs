@@ -7,7 +7,7 @@ I customized my webpage using Bootstrap, and equiped the table with several full
 
 My site allows users to filter the data on multiple values including Date, City, State, Country, and Shape. The user can enter one or any number of these filters to return the filtered table displayed on the page.
 
-**Additionally, I added a clear search button which resets the table to its unfiltered state**
+**_Additionally, I added a clear search button which resets the table to its unfiltered state_**
 
 ## Results
 

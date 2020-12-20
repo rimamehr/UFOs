@@ -9,3 +9,9 @@ My site allows users to filter the data on multiple values including Date, City,
 
 Additionally, I added a clear search button which resets the table to its unfiltered state
 
+### Results
+
+
+<p align="left">
+  <img src="/images/filter_by_date.png">
+  </p>

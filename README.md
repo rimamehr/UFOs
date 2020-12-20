@@ -1,4 +1,4 @@
-# UFOs
+# UFO Sightings
 
 ## Overview of Project
 For this project I created a webpage for UFO sightings that uses JavaScript, HTML, CSS, and D3.js. I was tasked with building a table using data stored in a JavaScript array. I also created filters to make this table fully dynamic, meaning that it reacted to user input, and then placed the table into an HTML file for easy viewing.

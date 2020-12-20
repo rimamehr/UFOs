@@ -7,7 +7,7 @@ I customized my webpage using Bootstrap, and equiped the table with several full
 
 My site allows users to filter the data on multiple values including Date, City, State, Country, and Shape. The user can enter one or any number of these filters to return the filtered table displayed on the page.
 
-**_Additionally, I added a clear search button which resets the table to its unfiltered state_**
+**_Additionally, I added a clear search button which resets the table to its unfiltered state._**
 
 ## Results
 
@@ -25,3 +25,8 @@ My site allows users to filter the data on multiple values including Date, City,
   <p align="left">
   <img src="/images/multi_filter.png">
   </p>
+
+## Summary
+This new design is great but if we could add a functionality for a user to be able to download their filtered search results for further analysis that would be great.
+- I felt the need for a clear search button that i added to my webpage which was not part of the challenge.
+- Additionally we could also make this webpage dynamic by adding web scraping functionality to get additional sighting data.

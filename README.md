@@ -27,6 +27,6 @@ My site allows users to filter the data on multiple values including Date, City,
   </p>
 
 ## Summary
-This new design is great but if we could add a functionality for a user to be able to download their filtered search results for further analysis that would be great.
+- This new design is great but if we could add a functionality for a user to be able to download their filtered search results for further analysis that would be great.
 - I felt the need for a clear search button that i added to my webpage which was not part of the challenge.
 - Additionally we could also make this webpage dynamic by adding web scraping functionality to get additional sighting data.

@@ -15,3 +15,13 @@ Additionally, I added a clear search button which resets the table to its unfilt
 <p align="left">
   <img src="/images/filter_by_date.png">
   </p>
+
+
+<p align="left">
+  <img src="/images/filter_by_state.png">
+  </p>
+  
+  
+  <p align="left">
+  <img src="/images/multi_filter.png">
+  </p>

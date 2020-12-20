@@ -78,3 +78,23 @@ function updateFilters() {
    // Build the table when the page loads
   buildTable(tableData);
 
+  // Created a clear button for added functionality
+function clearFilters() {
+  var a = document.getElementById("datetime");
+  a.value = a.defaultValue;
+
+  var b = document.getElementById("city");
+  b.value = b.defaultValue;
+
+  var c = document.getElementById("state");
+  c.value = c.defaultValue;
+
+  var d = document.getElementById("country");
+  d.value = d.defaultValue;
+
+  var e = document.getElementById("shape");
+  e.value = e.defaultValue;
+
+  track_input ={};
+  buildTable(tableData);
+}
